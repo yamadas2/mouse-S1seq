@@ -10,7 +10,7 @@
 
 
 ## Create directories for mapping
-Download the "mapping" directoroy from GitHub
+Download the [mapping](/mapping) directoroy
 
 
 ## Instration using Terminal
