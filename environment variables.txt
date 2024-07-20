@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# mapping
+MAP_CPU=4
+MAP_MEM=16
+MAP_DIR_MAPPING=~/mapping
