@@ -1,4 +1,4 @@
-# Setup
+# Installation
 
 ## Install R libraries
 Open Rstudio and run the following in the console
