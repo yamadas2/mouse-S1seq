@@ -8,7 +8,7 @@ The pipeline starts by trimming paired-end sequence reads, followed by mapping o
 Example R scripts included are for generating mean profiles and heatmaps around mouse SPO11-oligo hotspot centers, calculating mean resection lengths and scatter plots to check correlation with SPO11-oligo maps and reproducibility between maps.
 
 ## Installation
-Installation instructions are described in setup.txt in mapping/scripts/MouseResection/main.
+Installation instructions are described in [setup.md](/mapping/scripts/MouseResection/main/setup.md).
 
 ## Usage
-Usage is described in usage.md in mapping/scripts/MouseResection/main.
+Usage is described in [usage.md](mapping/scripts/MouseResection/main/usage.md).
