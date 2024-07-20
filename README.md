@@ -5,7 +5,7 @@ S1-seq and its variant methods have been developed to visualize the global distr
 
 The pipeline starts by trimming paired-end sequence reads, followed by mapping onto a reference genome. After removal of duplicated reads, it counts uniquely and properly mapped reads at the nucleotide next to the biotinylated adapter was mapped (this corresponds to the resection endpoint). 
 
-The [example R scripts](/mapping/scripts/MouseResection/main/Rstudio) are for generating mean profiles and heatmaps around mouse SPO11-oligo hotspot centers, calculating mean resection lengths and scatter plots to check correlation with SPO11-oligo maps and reproducibility between maps.
+The example [R scripts](/mapping/scripts/MouseResection/main/Rstudio) are for generating mean profiles and heatmaps around mouse SPO11-oligo hotspot centers, calculating mean resection lengths and scatter plots to check correlation with SPO11-oligo maps and reproducibility between maps.
 
 ## Installation
 Installation instructions are described in [installation.md](/mapping/scripts/MouseResection/main/installation.md).
